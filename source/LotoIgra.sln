@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LotoIgra", "lotoigra\LotoIgra.vbproj", "{173F10FD-7346-403E-92DF-B166ADEDE573}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalacija_Loto", "Instalacija\Instalacija_Loto\Instalacija_Loto.vdproj", "{0014638F-9586-48FD-8966-FD8639EFAA85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{173F10FD-7346-403E-92DF-B166ADEDE573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173F10FD-7346-403E-92DF-B166ADEDE573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173F10FD-7346-403E-92DF-B166ADEDE573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173F10FD-7346-403E-92DF-B166ADEDE573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0014638F-9586-48FD-8966-FD8639EFAA85}.Debug|Any CPU.ActiveCfg = Debug
+		{0014638F-9586-48FD-8966-FD8639EFAA85}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D643E5C-1DE5-48C9-AE41-D1F2A03B59F6}
+	EndGlobalSection
+EndGlobal

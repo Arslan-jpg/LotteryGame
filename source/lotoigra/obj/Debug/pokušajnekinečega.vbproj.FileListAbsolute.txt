@@ -1,0 +1,11 @@
+C:\Users\ArslanMehinovic\source\repos\pokušajnekinečega\pokušajnekinečega\bin\Debug\pokušajnekinečega.exe.config
+C:\Users\ArslanMehinovic\source\repos\pokušajnekinečega\pokušajnekinečega\bin\Debug\pokušajnekinečega.exe
+C:\Users\ArslanMehinovic\source\repos\pokušajnekinečega\pokušajnekinečega\bin\Debug\pokušajnekinečega.pdb
+C:\Users\ArslanMehinovic\source\repos\pokušajnekinečega\pokušajnekinečega\bin\Debug\pokušajnekinečega.xml
+C:\Users\ArslanMehinovic\source\repos\pokušajnekinečega\pokušajnekinečega\obj\Debug\pokušajnekinečega.vbprojAssemblyReference.cache
+C:\Users\ArslanMehinovic\source\repos\pokušajnekinečega\pokušajnekinečega\obj\Debug\pokušajnekinečega.Form1.resources
+C:\Users\ArslanMehinovic\source\repos\pokušajnekinečega\pokušajnekinečega\obj\Debug\pokušajnekinečega.Resources.resources
+C:\Users\ArslanMehinovic\source\repos\pokušajnekinečega\pokušajnekinečega\obj\Debug\pokušajnekinečega.vbproj.GenerateResource.cache
+C:\Users\ArslanMehinovic\source\repos\pokušajnekinečega\pokušajnekinečega\obj\Debug\pokušajnekinečega.exe
+C:\Users\ArslanMehinovic\source\repos\pokušajnekinečega\pokušajnekinečega\obj\Debug\pokušajnekinečega.xml
+C:\Users\ArslanMehinovic\source\repos\pokušajnekinečega\pokušajnekinečega\obj\Debug\pokušajnekinečega.pdb
